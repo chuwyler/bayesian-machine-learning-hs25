@@ -12,7 +12,7 @@ dependencies:
   - preliz
   - scikit-learn
   - matplotlib
-  - daft
+  - daft-pgm
   - pgmpy
 
 prefix: "/opt/conda"
