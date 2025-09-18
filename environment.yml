@@ -12,6 +12,5 @@ dependencies:
   - preliz
   - scikit-learn
   - pgmpy
-  - dowhy
 
 prefix: "/opt/conda"
